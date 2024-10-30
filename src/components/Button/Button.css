@@ -9,6 +9,7 @@
   transition: all 200ms ease;
   cursor: pointer;
   white-space: nowrap;
+  padding-left: 12rem;
 }
 
 .btn:disabled {
@@ -68,6 +69,7 @@
   height: 2.5rem;
   padding: 0 1rem;
   font-size: 0.875rem;
+  padding: 3rem;
 }
 
 .btn-lg {
