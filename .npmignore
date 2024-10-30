@@ -1,0 +1,10 @@
+.storybook/
+src/
+public/
+node_modules/
+.gitignore
+*.log
+tsconfig*.json
+vite.config.ts
+.eslintrc.js
+yarn.lock
